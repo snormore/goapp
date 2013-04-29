@@ -57,3 +57,18 @@ Show available gorake commands
 ```
 goapp
 ```
+
+Bootstrap your database
+```
+goapp db:bootstrap
+```
+
+Run database migrations
+```
+goapp db:migrate
+```
+
+Reset your database
+```
+goapp db:reset
+```
